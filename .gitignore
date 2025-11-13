@@ -1,0 +1,28 @@
+# Файлы для игнорирования
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Папки
+bin/
+build/
+target/
+dist/
+out/
+
+# Логи
+*.log
+
+# Файлы IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# Базы данных
+*.db
+*.sqlite
